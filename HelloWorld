@@ -1,4 +1,6 @@
 class HelloWorld{
   int id;
   System.out.println("lkjlkjakjfdflkj");
+  HelloWorld(){
+  }
 }
